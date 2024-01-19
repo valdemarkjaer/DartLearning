@@ -1,4 +1,5 @@
 // IMPLEMENTS
+/*
 void main() {
 
 }
@@ -36,9 +37,10 @@ class Truck implements Vehicle {
 }
 
 class Owner {
-  final String nomeDoDono;
+  final String nomeDoDono = "dono";
 }
 
 class Bike extends Owner implements Vehicle {    // voce pode fazer uma classe que implements uma classe
                                                  // e que extends outra classe. Aí pode usar super.
 }
+*/

@@ -1,3 +1,5 @@
+/*
+
 // FUTURES - só existe em Dart, JavaScript (Promises)
 // bom para contato com servicos externos, api. Coisas que dependem de rede, imprevisiveis de saber se vao funcionar ou nao
 // Futures usam muita exception handling. Têm a ver com Assyncronous programming
@@ -33,3 +35,4 @@ Future<String> giveAResultAfter2Sec() async { // pra ser future tem de ter async
 
   print('Valdemar');
 }
+*/

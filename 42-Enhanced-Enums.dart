@@ -32,4 +32,5 @@ class Employee {
   }
 
 /* ENUM também pode ser feito como implements, mas nao vamos entrar nessa parte aqui nesse curso
- * Seria enum EmployeeType implements TalTalTal
+ * Seria enum EmployeeType implements TalTalTal */
+ 

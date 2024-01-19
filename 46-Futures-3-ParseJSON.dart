@@ -3,6 +3,9 @@
 // Futures usam muita exception handling. Têm a ver com Assyncronous programming
 
 // Funcoes que vao executar e que vao gerar resultado ou erro.
+
+
+/*
 import 'package:http/http.dart' as http;
 
 void main() async {
@@ -51,4 +54,5 @@ Future<String> giveAResultAfter2Sec() {
   }
 }
 Documentation
+*/
 */
