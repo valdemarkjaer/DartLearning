@@ -27,3 +27,4 @@ class Cat extends Animal {
 class Dog extends Animal {
   @override
   void sound() => print('Au au');
+}
